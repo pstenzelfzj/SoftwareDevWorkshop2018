@@ -4,7 +4,7 @@
 #
 # This file is part of PrintNumbers.
 #
-# Copyright (C) 2017 G. Trensch, SLNS, JSC, FZ Jülich
+# Copyright (C) 2018 G. Trensch, SLNS, JSC, FZ Jülich
 #
 # PrintNumbers is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
