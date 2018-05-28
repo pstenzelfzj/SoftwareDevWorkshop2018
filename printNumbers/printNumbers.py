@@ -20,7 +20,7 @@
 # along with printNumbers.  If not, see <http://www.gnu.org/licenses/>.
 
 #
-# Software Development in Science Workshop 2017
+# Software Development in Science Workshop 2018
 #        Python GitHub project example
 #
 
